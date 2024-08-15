@@ -1,12 +1,77 @@
-<h1 align="center">Hi 👋, I'm Salah Sfar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there, I'm Salah Sfar 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+![Developer](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+I'm a passionate backend developer specializing in **Node.js**. With a strong background in computer engineering, I excel in building efficient and scalable web applications. My expertise lies in API development, database management, and middleware creation.
+---
+
+## 🚀 About Me
+
+- 💼 **Professional Experience:** Node.js, Express.js, NestJS, React.js, and more.
+- 🎓 **Education:** Graduated from Ecole Polytechnique Sousse with a degree in Computer Engineering.
+- 🏆 **Accomplishments:[Creation of online educational content 'Formationnet' on Instagram]([https://www.instagram.com/your-instagram-handle](https://www.instagram.com/formationnet/)).
+
+---
+
+## 🛠️ Skills
+
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
+
+### Databases
+- **MongoDB (Mongoose), PostgreSQL, SQL, NoSQL**
+
+### Tools & Technologies
+- **Git, Docker, Redis, Socket.io, OAuth 2.0, Passport.js, ffmpeg, Stripe**
+
+### Other Expertise
+- **RESTful APIs, Microservices, Agile Methodologies**
+
+---
+
+
+## 🏅 Certifications
+
+- **Docker Training Course for the Absolute** - Kodekloud
+- **JavaScript Algorithms and Data Structures** - FreeCodeCamp
+- **MongoDB CRUD Operations in Node.js** - MongoDB
+- **Php and Mysql Certificate** - Udemy
+
+---
+
+
+## 💻 Projects
+
+### Discord Clone
+- Developed an application for users to communicate via messages and create group video conference rooms.
+- **Technologies Used:** MongoDB, Express.js, React.js, Node.js, Socket.io, WebRTC, Redux.
+
+### Real-Time Chat App
+- Developed an application for real-time messaging and account creation.
+- **Technologies Used:** NestJS, React, Redux Toolkit, GraphQL, Prisma, Docker, Docker Compose.
+
+
+---
+
+## 🌐 Connect with Me
+
+- **Email:** mohamedsalah.sfarchaabane@polytechnicien.tn
+- **Phone:** +216 58962808
+- **Location:** Mahdia, Tunisia
+- **GitHub:** [github.com/med661](https://github.com/med661)
+- **LinkedIn:** [Mohamed Salah Sfar Chaabane](https://www.linkedin.com/in/mohamed-salah-sfar-chaabane)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" height="100">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+*This README was generated with ❤️ by Salah Sfar.*
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/med661"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="med661" /></a><a href="https://ko-fi.com/med661"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="med661" /></a></p><br><br>
+
