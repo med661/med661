@@ -2,16 +2,14 @@
 
 ![Developer](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-I'm a passionate backend developer specializing in **Node.js**. With a strong background in computer engineering, I excel in building efficient and scalable web applications. My expertise lies in API development, database management, and middleware creation. I'm always eager to learn and expand my skills, particularly in **DevOps**.
-
+I'm a passionate backend developer specializing in **Node.js**. With a strong background in computer engineering, I excel in building efficient and scalable web applications. My expertise lies in API development, database management, and middleware creation.
 ---
 
 ## 🚀 About Me
 
-- 🌱 **Always learning:** Currently diving deeper into DevOps practices.
 - 💼 **Professional Experience:** Node.js, Express.js, NestJS, React.js, and more.
 - 🎓 **Education:** Graduated from Ecole Polytechnique Sousse with a degree in Computer Engineering.
-- 🏆 **Accomplishments:** 2nd place in the social entrepreneurship competition 'ActionAid'.
+- 🏆 **Accomplishments:[Creation of online educational content 'Formationnet' on Instagram]([https://www.instagram.com/your-instagram-handle](https://www.instagram.com/formationnet/)).
 
 ---
 
