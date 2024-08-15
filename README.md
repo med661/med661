@@ -55,17 +55,6 @@ I'm a passionate backend developer specializing in **Node.js**. With a strong ba
 - Developed an application for real-time messaging and account creation.
 - **Technologies Used:** NestJS, React, Redux Toolkit, GraphQL, Prisma, Docker, Docker Compose.
 
-
----
-
-## 🌐 Connect with Me
-
-- **Email:** mohamedsalah.sfarchaabane@polytechnicien.tn
-- **Phone:** +216 58962808
-- **Location:** Mahdia, Tunisia
-- **GitHub:** [github.com/med661](https://github.com/med661)
-- **LinkedIn:** [Mohamed Salah Sfar Chaabane](https://www.linkedin.com/in/mohamed-salah-sfar-chaabane)
-
 ---
 
 <p align="center">
