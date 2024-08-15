@@ -3,13 +3,14 @@
 ![Developer](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 I'm a passionate backend developer specializing in **Node.js**. With a strong background in computer engineering, I excel in building efficient and scalable web applications. My expertise lies in API development, database management, and middleware creation.
+
 ---
 
 ## 🚀 About Me
 
 - 💼 **Professional Experience:** Node.js, Express.js, NestJS, React.js, and more.
 - 🎓 **Education:** Graduated from Ecole Polytechnique Sousse with a degree in Computer Engineering.
-- 🏆 **Accomplishments:[Creation of online educational content 'Formationnet' on Instagram]([https://www.instagram.com/your-instagram-handle](https://www.instagram.com/formationnet/)).
+- 🏆 **Accomplishments:** [Creation of online educational content 'Formationnet' on Instagram](https://www.instagram.com/formationnet/).
 
 ---
 
@@ -34,16 +35,14 @@ I'm a passionate backend developer specializing in **Node.js**. With a strong ba
 
 ---
 
-
 ## 🏅 Certifications
 
-- **Docker Training Course for the Absolute** - Kodekloud
+- **Docker Training Course for the Absolute Beginner** - Kodekloud
 - **JavaScript Algorithms and Data Structures** - FreeCodeCamp
 - **MongoDB CRUD Operations in Node.js** - MongoDB
 - **Php and Mysql Certificate** - Udemy
 
 ---
-
 
 ## 💻 Projects
 
@@ -57,10 +56,20 @@ I'm a passionate backend developer specializing in **Node.js**. With a strong ba
 
 ---
 
+## ☕ Support
+
+If you enjoy my work and want to support me, consider buying me a coffee!
+
+<p>
+  <a href="https://www.buymeacoffee.com/med661">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee">
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" height="100">
 </p>
 
 *This README was generated with ❤️ by Salah Sfar.*
-
-
