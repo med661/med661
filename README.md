@@ -1,6 +1,5 @@
 # Hi there, I'm Salah Sfar 👋
 
-![Developer](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 I'm a passionate backend developer specializing in **Node.js**. With a strong background in computer engineering, I excel in building efficient and scalable web applications. My expertise lies in API development, database management, and middleware creation.
 
