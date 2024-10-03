@@ -54,13 +54,6 @@ I'm a passionate backend developer specializing in **Node.js**. With a strong ba
 - **Technologies Used:** NestJS, React, Redux Toolkit, GraphQL, Prisma, Docker, Docker Compose.
 
 ---
-<p>
-  <a href="https://www.buymeacoffee.com/med661">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee">
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" height="100">
